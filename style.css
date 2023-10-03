@@ -384,6 +384,7 @@ h3 {
     border-radius: 50%;
     box-shadow: 0 1px 6px 5.94px rgba(0,0,0,0.2);
     animation: rotateText 30s linear infinite;
+    
 }
 
 .text b{
@@ -433,12 +434,14 @@ h3 {
 
 .about-content h2{
     color: var(--main-color);
+    font-family: "Lucida Handwriting", cursive;
 }
 
 .about-content h3{
     font-size: 2.1rem;
     line-height: 3rem;
     margin: .5rem 0;
+    
 }
 
 .about-content p{
@@ -448,6 +451,7 @@ h3 {
 .text-box p{
     font-size: 1.1rem;
     font-weight: 500;
+    
 }
 
 .about-btn{
@@ -477,6 +481,7 @@ h3 {
 
 .text-box{
     margin: .8rem 0;
+    
 }
 
 .content-btn > .content:not(:first-child){
@@ -504,6 +509,7 @@ h3 {
 
 .main-text .heading{
     color: var(--main-color);
+    font-family: "Lucida Handwriting", cursive;
 }
 
 .main-text span{
